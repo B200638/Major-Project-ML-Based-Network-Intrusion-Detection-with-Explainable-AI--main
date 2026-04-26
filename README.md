@@ -1,4 +1,4 @@
-# 🚀 Machine Learning-Based Network Intrusion Detection System
+  # 🚀 Machine Learning-Based Network Intrusion Detection System
 
 ## 📌 Overview
 - This project presents a Machine Learning-based Intrusion Detection System (IDS) designed to classify network traffic as Normal or Intrusion (Attack).
@@ -70,8 +70,8 @@
 
 ## ▶️ How to Run
 ```bash
+
 pip install -r requirements.txt
 jupyter notebook
-
 
 
