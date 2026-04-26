@@ -83,5 +83,5 @@ The system effectively detects network intrusions with high accuracy and interpr
 
     pip install -r requirements.txt 
     jupyter notebook
-jupyter notebook
+
 
